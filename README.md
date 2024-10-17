@@ -12,10 +12,6 @@ CTFileDownloader is a Python package that allows users to download files from CT
 
 # You will need a premium account on `ctfile.com` to use this tool. Please log in to your account at [ctfile.com](https://www.ctfile.com/p/login) & set your password and username in the `config.yml` file.
 
-## Demo
-
-![CTFileDownloader Demo]()
-
 ## Environment Setup
 
 ### For Windows:
