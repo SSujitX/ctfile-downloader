@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+
+.DS_Store
+.venv
+.ignore
+config.yml
+.backup_readme.md
+
+dist/
+build/
+ctfiledownloader.spec
+
+*.egg-info/
