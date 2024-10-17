@@ -86,7 +86,7 @@ When you run either the `ctfiledownloader.py` script or the standalone `CTFile D
 ### Using ctfiledownloader.py as git repositor
 
 ```sh
-git clone https://github.com/SSujitX/ctfiledownloader.git
+git clone https://github.com/SSujitX/ctfile-downloader.git
 ```
 
 Clone the ctfiledownloader repository to your local machine.
