@@ -10,7 +10,7 @@ CTFileDownloader is a Python package that allows users to download files from CT
   - Error handling for invalid URLs.
   - Support for multiple download mirrors (Telecom and Unicom).
 
-`` You must need a premium account of `ctfile.com` [ctfile.com](https://www.ctfile.com/p/login) ``
+# You will need a premium account on `ctfile.com` to use this tool. Please log in to your account at [ctfile.com](https://www.ctfile.com/p/login).
 
 ## Demo
 
@@ -72,7 +72,7 @@ pip install -r requirements.txt
 ```
 
 ```python
-    python ctfiledownloader.py
+python ctfiledownloader.py
 ```
 
 ### Using CTFile Downloader v1.0.0 standalone executable file (windows cli only)
