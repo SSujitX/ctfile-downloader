@@ -1,3 +1,5 @@
+![](https://api.visitorbadge.io/api/VisitorHit?user=SSujitX&repo=ctfile-downloader&countColor=%237B1E7A)
+
 # CTFile Downloader
 
 CTFileDownloader is a Python package that allows users to download files from CTFile using URLs or batch processing. It is designed for efficient file downloading, handling both individual and batch URL inputs. If you find it useful, please consider starring the repository on GitHub to support the project!
