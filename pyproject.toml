@@ -1,0 +1,12 @@
+[project]
+name = "ctfile_downloader"
+version = "2.0.0"
+description = "CTFile Downloader"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "cloudscraper>=1.2.71",
+    "pyinstaller>=6.19.0",
+    "rich>=15.0.0",
+    "tqdm>=4.67.3",
+]
