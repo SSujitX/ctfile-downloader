@@ -13,3 +13,5 @@ ctfiledownloader.spec
 *.egg-info/
 _ctfiledata/creds.json
 _ctfiledata/cookies.json
+
+*.spec
