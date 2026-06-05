@@ -228,7 +228,9 @@ Build both editions (commands from `exe.txt`):
 
 ```bash
 pyinstaller --onefile --console --name "CTFile Downloader Pro" --icon "ctfile.ico" ctfile_pro.py
+```
 
+```bash
 pyinstaller --onefile --console --name "CTFile Downloader Free" --icon "ctfile.ico" ctfile_free.py
 ```
 
